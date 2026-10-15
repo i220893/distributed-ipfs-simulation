@@ -4,10 +4,9 @@ A distributed peer-to-peer storage network prototype and ISP routing simulation 
 
 > [!NOTE]
 > **Academic Project Information**  
-> - **Course Domain**: Data Structures & Distributed Algorithms  
+> - **Course Name**: Data Structures 
 > - **Assigned Date**: November 22, 2023  
-> - **Submission Date**: December 15, 2023  
-> - **Author**: Hussain ([@hussain](mailto:hussainwaseemsyed@gmail.com))
+> - **Submission Date**: December 15, 2023
 
 ---
 
