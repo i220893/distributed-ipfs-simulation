@@ -1,0 +1,34 @@
+# Visual Studio build and cache directories
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files, user files and databases
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+*.opendb
+
+# Intermediate build outputs
+*.obj
+*.obj.enc
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.ipch
+*.log
+
+# Simulation runtime generated storage folders
+Machine ID */
+Machine ID *
